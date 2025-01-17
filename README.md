@@ -16,7 +16,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🌐 Encuéntrame en:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-nu%C3%B1ez-118703132/)
 - [![Email](https://img.shields.io/badge/Email-analaura.dev@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analaura.dev@hotmail.com)
 
 ---
