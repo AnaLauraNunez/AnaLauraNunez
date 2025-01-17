@@ -1,3 +1,5 @@
+<img src="https://github.com/AnaLauraNunez/AnaLauraNunez/blob/main/images/presentacion.jpg.jpg" alt="Banner" width="100%" />
+
 # Hola, soy Ana Laura 👋
 
 ### 🌟 Sobre mí:
