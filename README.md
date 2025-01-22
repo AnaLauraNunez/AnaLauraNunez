@@ -32,10 +32,10 @@
 ![Agile](https://img.shields.io/badge/Agile-47A248?style=for-the-badge&logo=agile&logoColor=white)
 
 # Mis habilidades
-
-![PowerShell Master](https://img.shields.io/badge/PowerShell%20Master-001F33?style=flat&logo=powershell)
-![Bash Scripter](https://img.shields.io/badge/Bash%20Scripter-4EAA25?style=flat&logo=gnubash)
-![IA](https://img.shields.io/badge/ChatGPT%20Expert-blue?style=flat&logo=openai)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-008C89?style=flat&logo=github)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=flat&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/PowerShell-001F33?style=flat&logo=powershell)
+![IA Optimizer](https://img.shields.io/badge/IA%20Optimizer-0A74DA?style=flat&logo=python)
 
 
 ### 🌐 Encontrame en:
