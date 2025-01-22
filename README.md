@@ -31,6 +31,12 @@
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-47A248?style=for-the-badge&logo=agile&logoColor=white)
 
+# Mis habilidades
+
+![PowerShell Master](https://img.shields.io/badge/PowerShell%20Master-001F33?style=flat&logo=powershell)
+![Bash Scripter](https://img.shields.io/badge/Bash%20Scripter-4EAA25?style=flat&logo=gnubash)
+![IA](https://img.shields.io/badge/ChatGPT%20Expert-blue?style=flat&logo=openai)
+
 
 ### 🌐 Encontrame en:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analauranunez-dev/)
